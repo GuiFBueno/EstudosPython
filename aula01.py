@@ -1,4 +1,6 @@
 print('atenção')
-print('opa, editei'),
+print('opa, editei')
 
+
+print(123)
 
